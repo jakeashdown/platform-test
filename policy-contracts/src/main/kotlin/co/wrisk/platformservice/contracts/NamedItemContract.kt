@@ -1,8 +1,8 @@
-package co.wrisk.platformtest
+package co.wrisk.platformservice.contracts
 
 import java.math.BigDecimal
 
-data class NamedItem(
+data class NamedItemContract(
         val name: String,
         val sumInsured: BigDecimal,
         val excess: BigDecimal
