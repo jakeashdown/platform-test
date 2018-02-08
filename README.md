@@ -12,6 +12,8 @@ The solution should ideally use gradle and kotlin. You don’t need to be a kotl
 
 If you feel uncomfortable using kotlin feel free to use the language of your choice. Ideally JVM based so that you can use the provide data contracts (see later).
 
+If you feel something is ambiguous please get in-touch with your contact @ Wrisk or leave a `ASSUMPTIONS.md` file listing your assumptions.
+
 Find the initial project setup here: [https://github.com/WriskHQ/platform-test](https://github.com/WriskHQ/platform-test). It has no external dependencies added - feel free to add some if you want.
 
 ## Background
