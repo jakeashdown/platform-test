@@ -8,7 +8,9 @@ At Wrisk we like to be transparent with our customers and make everything as eas
 
 Your task is to write a program which can produce a quote and policy for a customer given their individual Wrisk score.
 
-The solution should use gradle and kotlin. You don’t need to be a kotlin expert, none of us were before we started using it. We believe good programmers can easily pick up any language. Here is a resource [https://learnxinyminutes.com/docs/kotlin/](https://learnxinyminutes.com/docs/kotlin/).
+The solution should ideally use gradle and kotlin. You don’t need to be a kotlin expert, none of us were before we started using it. We believe good programmers can easily pick up any language. Here is a resource [https://learnxinyminutes.com/docs/kotlin/](https://learnxinyminutes.com/docs/kotlin/).
+
+If you feel uncomfortable using kotlin feel free to use the language of your choice. Ideally JVM based so that you can use the provide data contracts (see later).
 
 Find the initial project setup here: [https://github.com/WriskHQ/platform-test](https://github.com/WriskHQ/platform-test). It has no external dependencies added - feel free to add some if you want.
 
